@@ -21,14 +21,22 @@ Projekt wykorzystuje nowoczesne rozwiązania:
 
 ## 📂 Struktura projektu
 
-├── app/src/main/java/com/example/a2dni
+├── app/src/main/java/com/example/a2dni 
+
 │   ├── MainActivity.kt  # Główna aktywność
+
 │   ├── Screens.kt  # Definicja ekranów aplikacji
+
 │   ├── Ekrany/
+
 │   │   ├── DodajPokoj.kt  # Ekran dodawania pokoju
+
 │   │   ├── DodajScenariusz.kt  # Tworzenie scenariuszy
+
 │   │   ├── DodajUrządzenie.kt  # Dodawanie urządzeń
+
 │   │   ├── Edytuj.kt  # Edycja elementów
+
 │   └── viewmodel/  # Warstwa logiki biznesowej
 
 
